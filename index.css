@@ -1,0 +1,93 @@
+.Container{
+width:1200px;
+margin:0 auto;
+}
+.Container-header{
+    position: relative;
+    height:24%;
+    background-image: url(../imagines/demo_02.png)  ;
+    background-size: 100% 100%;
+   
+}
+#Container-header-logo{
+    padding-top: 2px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+   }
+
+.Container-dhl{
+    height:6%;
+    background-color: #064e6b;
+}
+*{
+    margin:0;
+    padding:0;
+}
+ul{
+        list-style: none;
+    }
+li{
+        margin:0 55px;
+        float:left;
+        color:#ecedf3;
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: 13px;
+        font-weight:900px;
+        height:50px;
+        line-height:50px;
+      }
+li:hover{
+        background-color:#f0f7f7;
+        color:#05425e;
+            }
+
+.Container-zt1{
+    height:30%;
+  
+}
+#Container-zt1-wz1{
+    background-color: #42e211;
+    width:450px; 
+  float: left;
+  padding-left:5px; 
+
+}
+#Container-zt1-wz2{
+    background-color: #42e211;
+    width:720px; 
+ float:right;
+    padding-right: 5px;
+}
+.Container-zt2{
+    height:30%;
+  
+}
+.Container-zt2-wz3{
+   
+    float: left;
+    width: 1000px;
+}
+#Container-zt2-wz3-tw1{
+background-color: #8633b6;
+float: left;
+width:450px;
+}
+#Container-zt2-wz3-tw2{
+    background-color: #8633b6;
+    float:right；
+    width=450px;
+}
+.Container-zt2-wz4{
+width:170px;
+padding-right: 10px;
+background-color: #fffefe;
+float: right;
+}
+
+
+.Container-foot{
+    height:11%;
+    background-color: #2b6e97;
+   color:#ecedf3;
+
+}
